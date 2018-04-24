@@ -1,3 +1,5 @@
+//this file is added for blog routes
+
 const mongoose = require('mongoose');
 const { requireLogin, cleanCache } = require('../middlewares');
 
